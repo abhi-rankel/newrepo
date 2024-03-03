@@ -2,6 +2,7 @@
 
 <br>
 git remote add origin with path-name used to upload the code to remote/github (dropdown)
+git remote add origin with path-name used to upload the code to remote/github (button)
 <br>
 git remote -v is used to see the origin of a file
 <br>
